@@ -6,9 +6,9 @@ TagManager:
   tags:
   - Shootable
   - Fire
-  - PlayerSpell
-  - EnemySpell
   - Detector
+  - Enemy
+  - playerProjectile
   layers:
   - Default
   - TransparentFX
@@ -21,8 +21,8 @@ TagManager:
   - Lighting
   - Ground
   - Postprocessing
-  - 
-  - 
+  - Player
+  - Enemy
   - 
   - 
   - 
